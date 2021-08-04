@@ -70,3 +70,119 @@
     // if we get here, it is a palindrome
     return true;
 }
+
+
+/* 
+    Longest Palindrome
+    For this challenge, we will look not only at the entire string provided, but also at the substrings within it. Return the longest palindromic substring. 
+    Strings longer or shorter than complete words are OK.
+    All the substrings of "abc" are:
+    a, ab, abc, b, bc, c
+*/
+
+// const { isPalindrome } = require("./isPalindrome");
+
+// const str1 = "what up, daddy-o?";
+// const expected1 = "dad";
+
+// const str2 = "uh, not much";
+// const expected2 = "u";
+
+// const str3 = "Yikes! my favorite racecar erupted!";
+// const expected3 = "e racecar e";
+
+// const str4 = "";
+// const expected4 = false;
+
+/**
+ * Finds the longest palindromic substring in the given string.
+ * - Time: O(?).
+ * - Space: O(?).
+ * @param {string} str
+ * @returns {string} The longest palindromic substring from the given string.
+ */
+function longestPalindromicSubstring(str) {
+    if(str.length == 0) {
+        return false;
+    } else if(str.length == 1){
+        return str;
+    }
+    // This one's just honestly kind of a pain. There's no easy way to do it.
+    // Option 1: Brute Force As Heck
+    // Check every single substring to see if it's a palindrome. Gross.
+    // We'll need to keep track of the longest palindromic substring we can find
+    var longestPal = "";
+    // loop through each character
+    for(var i = 0; i < str.length; i++) {
+        // we'll find all substrings starting from this character
+        var subStr = "";
+        // then loop through the subsequent characters
+        for(var j = i; j < str.length; j++) {
+            // adding each one to our subStr
+            subStr += str[j];
+            // and checking if it's a palindrome (by using the previous function) and if its length is greater than our longestPal length
+            if(isPalindrome(subStr) && subStr.length > longestPal.length) {
+                // if so, set longestPal to be the subStr
+                longestPal = subStr;
+            }
+        }
+    }
+    // When all is said and done, we'll have our longest palindromic substring
+    return longestPal;
+
+    // Note: This is O(n^3) in time complexity. Meaning if the string is 3 characters long, there will be 27 calculations.
+    // 4 characters long, 64 calculations
+    // 5 characters long, 125 calculations.
+    // You get the gist of this. The longer the string, the exponentially longer it takes. In basic terms, O(n^3) is... bad
+}
+
+function longestPalindromicLessGross(str){
+    if(str.length == 0) {
+        return false;
+    } else if (str.length == 1) {
+        return str;
+    }
+
+    var p1 = 0;
+    var p2 = 0;
+    var subStr = "";
+    var maxLen = 0;
+    for(var i = 0; i < str.length; i++) {
+        // Odd Length substrings around this character
+        p1 = i - 1;
+        p2 = i + 1;
+        while(p1 >= 0 && p2 < str.length && str[p1] == str[p2]){
+            p1--;
+            p2++;
+        }
+
+        p1++;
+        p2--;
+        if(maxLen < p2 - p1 + 1) {
+            maxLen = p2 - p1 + 1;
+            subStr = "";
+            for(var j = p1; j < p2 + 1; j++) {
+                subStr += str[j];
+            }
+        }
+
+        // Even length substrings "around" this character"
+        p1 = i - 1;
+        p2 = i;
+        while(p1 >= 0 && p2 < str.length && str[p1] == str[p2]){
+            p1--;
+            p2++;
+        }
+    
+        p1++;
+        p2--;
+        if(maxLen < p2 - p1 + 1) {
+            maxLen = p2 - p1 + 1;
+            subStr = "";
+            for(var j = p1; j < p2 + 1; j++) {
+                subStr += str[j];
+            }
+        }
+    }
+    return subStr;
+}
