@@ -20,7 +20,7 @@ user_id | name | address
 address_id | street_address | city | state | zip_code
  --- | --- | --- | --- | ---
 1 | 123 Main Street | Seattle | WA | 98003
-2 | 321 Not Main Street | Spokan | WA | 78483
+2 | 321 Not Main Street | Spokane | WA | 78483
 
 user_id | name | address
  --- | --- | ---

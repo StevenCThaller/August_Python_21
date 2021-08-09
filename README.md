@@ -15,4 +15,4 @@ Fri | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/
 ## Week 2
  Day | Algos | Morning | Afternoon
  --- | --- | --- | ---
-Mon | [Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1_Intro.md) &#124; [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1.js) &#124; [Recording](https://youtu.be/Fv1H1dnYLKM) | [DB Design](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D1/01_Database_Design) &#124; [Recording](https://youtu.be/dWQXf6z0S5s) | Let's Build Facebook
+Mon | [Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1_Intro.md) &#124; [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1.js) &#124; [Recording](https://youtu.be/Fv1H1dnYLKM) | [DB Design](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D1/01_Database_Design) &#124; [Recording](https://youtu.be/dWQXf6z0S5s) | [Let's Build Facebook](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D1/02_Lets_Make_a_Database) &#124; Processing
