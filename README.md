@@ -9,4 +9,10 @@ Mon | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/
 Tue | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W1/D2.js) &#124; [Recording](https://youtu.be/-xb0Ntq6bWE) | OOP &#124; [Recording](https://youtu.be/RvnNvmjE3dU) | [Tyler's Group](https://youtu.be/BRUGH7WFPeE) &#124; [Cody's Group](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D2/02_Lets_Make_A_Wizard/01_Class_Exercise.py) &#124; [Recording](https://youtu.be/JQgAQVpnzyQ)
 Wed | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W1/D3.js) &#124; [Recording](https://youtu.be/2TKKUAOP_qk) | [Advanced OOP](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D3/01_Advanced_OOP) &#124; [Recording](https://youtu.be/tD55y0R8ynA) | Hackathon Prezzies
 Thu | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W1/D4.js) &#124; [Recording](https://youtu.be/tQX6gShko6k) | [Flask Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D4/01_Flask) &#124; [Recording](https://youtu.be/0NQ7I8WrrBw) | [Static Files](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D4/02_Static_Files) &#124; [Recording](https://youtu.be/RoFGz645CvI)
-Fri | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W1/D5.js) &#124; [Recording](https://youtu.be/SvOqUVQ8sbE) | [Forms and Session](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D5/01_Post_Redirect_Session) &#124; [Recording](https://youtu.be/trNvW2baExI)
+Fri | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W1/D5.js) &#124; [Recording](https://youtu.be/SvOqUVQ8sbE) | [Forms and Session](https://github.com/StevenCThaller/August_Python_21/blob/main/W1/D5/01_Post_Redirect_Session) &#124; [Recording](https://youtu.be/trNvW2baExI) | Ninja Gold
+
+
+## Week 2
+ Day | Algos | Morning | Afternoon
+ --- | --- | --- | ---
+Mon | [Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1_Intro.md) &#124; [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D1.js) &#124; Processing | [DB Design](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D1/01_Database_Design) &#124; Processing | Let's Build Facebook
