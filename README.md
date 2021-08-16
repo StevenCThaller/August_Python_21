@@ -19,4 +19,9 @@ Mon | [Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos
 Tue | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D2.js) &#124; [Recording](https://youtu.be/ScqpgznjQlg) | [Querying MySQL](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D2/01_Querying_SQL) &#124; [Recording](https://youtu.be/sjmrnHXUPoI) | [SQLZoo](https://youtu.be/6OL6-8y-r6k)
 Wed | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D3.js) &#124; [Recording](https://youtu.be/z4g2dhqlDRs) | [Flask + MySQL](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D3/01_Flask_And_MySQL.md) &#124; [Recording](https://youtu.be/M_cAsu8DFSE) | [Modularization](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D3/02_Modularization.md) &#124; [Recording](https://youtu.be/4_5DjF0GOM8)
 Thu | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D4.js) &#124; [Recording](https://youtu.be/4G-u063s8j8) | [One to Many in Flask](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D4/01_One_To_Many_In_Flask) &#124; [Recording](https://youtu.be/9btt4R_oo1k) | Check In
-Fri [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D5.js) &#124; [Recording](https://youtu.be/sURCjb5qpN8) | Validations | [Log/Reg PseudoCode](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D5/02_Log_Reg_Pseudo) &#124; [Recording](https://youtu.be/cYAEuhLTa7o)
+Fri [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2/D5.js) &#124; [Recording](https://youtu.be/sURCjb5qpN8) | [Validations](https://youtu.be/UWS_7f5SYYY) | [Log/Reg PseudoCode](https://github.com/StevenCThaller/August_Python_21/blob/main/W2/D5/02_Log_Reg_Pseudo) &#124; [Recording](https://youtu.be/cYAEuhLTa7o)
+
+## Week 3
+ Day | Algos | Morning | Afternoon
+ --- | --- | --- | ---
+ Mon | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W3/D1.js) &#124; Processing | N/A | N/A
