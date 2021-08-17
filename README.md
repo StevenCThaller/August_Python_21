@@ -24,4 +24,5 @@ Fri [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2
 ## Week 3
  Day | Algos | Morning | Afternoon
  --- | --- | --- | ---
- Mon | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W3/D1.js) &#124; Processing | N/A | N/A
+Mon | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W3/D1.js) &#124; [Recording](https://youtu.be/dzig9COaIMU) | N/A | N/A
+Tue | No Algos | [Belt Prep Demo](https://youtu.be/L68BoV_7fTQ) | Rubric Review
