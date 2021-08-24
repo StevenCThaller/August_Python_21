@@ -26,3 +26,12 @@ Fri [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W2
  --- | --- | --- | ---
 Mon | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W3/D1.js) &#124; [Recording](https://youtu.be/dzig9COaIMU) | N/A | N/A
 Tue | No Algos | [Belt Prep Demo](https://youtu.be/L68BoV_7fTQ) | Rubric Review
+Wed | No Algos | Exam Day | Exam Day
+Thu | N/A | N/A | N/A
+Fri | N/A | [AJAX](https://youtu.be/FYXday0VnkE) | N/A
+
+## Week 4
+Day | Algos | Morning | Afternoon
+--- | --- | --- | --- 
+Mon | [Intro](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W4/D1_01_Intro.md) &#124; [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W4/D1_02_Challenge.js) | N/A | N/A
+Tue | [Code](https://github.com/StevenCThaller/August_Python_21/blob/main/Algos/W4/D2.js) &#124; [Recording](https://youtu.be/RsqWCoXCdbw) | N/A | N/A
